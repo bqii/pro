@@ -4,7 +4,7 @@
     "itemCornerRadius":20,
     "banners": [
         {
-            "url": "",
+            "url": "https://bqii.github.io/pro/1",
             "title": "",
             "package":"AppData",
             "hideShadow": true
