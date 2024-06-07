@@ -23,9 +23,9 @@
 <img border="0" src="Github.png" width="84" height="32"></a></p>
   
   <h2 id="jailbreak">点击下方添加软件源</h2>
-	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://bqgp.github.io/Pro/">添加Cydia</a><br>
+	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=[https://bqgp.github.io/Pro/](https://bqii.github.io/pro/)">添加Cydia</a><br>
 	<a href="sileo://source/https://bqgp.github.io/Pro/">添加Sileo</a><br>
-	<a href="zbra://sources/add/https://bqgp.github.io/Pro/">添加Zebra</a>
+	<a href="zbra://sources/add/https://bqii.github.io/pro/">添加Zebra</a>
 
   <h2 id="jailbreak">越狱</h2>
   <a href="https://liyu-qi.github.io/Dopamine-jailbreak/">Dopamine专区iOS15-16.6.1</a><br>
