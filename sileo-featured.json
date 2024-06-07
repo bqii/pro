@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{350, 180}",
+    "itemCornerRadius":20,
+    "banners": [
+        {
+            "url": "https://bqii.github.io/pro/wency.pngimages/wency.png",
+            "title": "",
+            "package":"AppData",
+            "hideShadow": true
+        },
+    ]
+}
