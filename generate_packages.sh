@@ -30,6 +30,7 @@ Label: 💫又是深情的一天pro
 Suite: stable
 Version: 1.0
 Codename: bqii
+Architectures: iphoneos-arm64
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
