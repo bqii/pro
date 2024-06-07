@@ -1,29 +1,37 @@
-<!-- PROJECT SHIELDS -->
+<html>
+<head>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+<link rel="icon" href="apple.jpg" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:image" content="apple.jpg">
+</head>
+<body>
 
-<!-- PROJECT LOGO -->
-<br />
+<div class="content">
+  <h2 id="jailbreak">又是深情的一天-自用源</h2> 
+	<p>欢迎添加微信:《待定》,加入微信玩机群。</p>
+  <ul>
+    <li><a href="#home">主页</a></li>
+    <li><a href="#jailbreak">越狱</a></li> 
+    <li><a href="#about">关于</a></li>
+  </ul>
+</div>
 
-免责声明: 本仓库发布的项目中涉及的所有内容，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+<div class="content">
+  
+	<p>这里是《又是深情的一天》的Github源库 <a href="https://github.com/bqgp/">
+<img border="0" src="Github.png" width="84" height="32"></a></p>
+  
+  <h2 id="jailbreak">点击下方添加软件源</h2>
+	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://bqgp.github.io/Pro/">添加Cydia</a><br>
+	<a href="sileo://source/https://bqgp.github.io/Pro/">添加Sileo</a><br>
+	<a href="zbra://sources/add/https://bqgp.github.io/Pro/">添加Zebra</a>
 
-请勿将本项目的任何内容用于商业或非法目的，否则后果自负.
+  <h2 id="jailbreak">越狱</h2>
+  <a href="https://liyu-qi.github.io/Dopamine-jailbreak/">Dopamine专区iOS15-16.6.1</a><br>
+  <a href="https://liyu-qi.github.io/meowbrek-jailbreak/">meowbrek2专区iOS15.x</a>
+	
+  </div>
+</body>
 
-如果您认为该项目的内容可能涉嫌侵犯其权利，请与我联系，我会尽快删除文件.
-
-如果您使用并复制了任何本仓库的内容，则视为您已接受此免责声明.
-
-聊天交流，请关注Telegram群：https://t.me/oncar2
-
-聊天交流，请添加VX进玩机群：VCR666y
-
-
-![](http://profile-counter.glitch.me/evilbutcher/count.svg)
-
-<!-- links -->
-[your-project-path]:axs6/repo
-[forks-shield]: https://img.shields.io/github/forks/axs6/repo.svg?style=flat-square
-[forks-url]: https://github.com/axs6/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/axs6/repo.svg?style=flat-square
-[stars-url]: https://github.com/axs6/repo/stargazers
+</html>
