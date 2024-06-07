@@ -834,6 +834,24 @@ Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyx
 Name: FT悬浮文本增强翻译汉化-简版
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
 
+Package: cn.llld.qsyy
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 4924
+Depends: mobilesubstrate
+Filename: ./debs/FT悬浮文本增强翻译汉化-简版_2.1_iphoneos-arm64.deb
+Size: 3903776
+MD5sum: a054bd2bc484a522567ad4b701a8bd8f
+SHA1: 819d0741fefa3ba8b2e7bc7afaf7c19627445bde
+SHA256: b7dd0167dc3851fb879adb2bca1a51724d1b66d77408b61d6978bb5d637bb3cc
+Section: 工具
+Description: A floating window tool that supports batch text replacement, this version adds reddit and iCleaner Pro, as well as phone, support Text replacement in settings, support phone modification of contact, modification of time, modification of call record，Custom text replacement, custom text size, custom text view width, height, custom text view horizontal and vertical coordinates, custom text color, custom text font, custom text transparency etc.,More uses waiting for you to discover, it is strongly recommended to upgrade.***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等(非所有文字，个别函数需要等我适配)。之前代码是垃圾，一切以最新版为准，提示：装了非真皮120或全局篡改插件的设备，不要装此插件，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+Name: FT悬浮文本增强翻译汉化-简版
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
 Package: cn.llld.tmts
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -977,6 +995,30 @@ Size: 96840
 MD5sum: 0160f3e2db0e291227f63b653879069e
 SHA1: 8cb1318d657d3d2ac336a30b0eceaaf1f2d20027
 SHA256: 667b04c04cf5939175123e2bd222a4e29d783d3e6b4df10f4d4d01c45e537a57
+Section: 工具
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Description: Block App Store Updates!
+Tag: purpose::extension
+Author: zqbb <w2599z@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Name: BlockAppUpdate 屏蔽App Store更新
+Sileodepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cn.zqbb.disupdateapp
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 623
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/BlockAppUpdate 屏蔽App Store更新_1.0-1_iphoneos-arm64.deb
+Size: 96800
+MD5sum: 72fd83fadf6794f1a9925d8d5b0a00fd
+SHA1: 6b9c48b37a8e28763c0e36daabb2c4a0778cc5e0
+SHA256: ab964e990d845f9fed211648317054311c8fae2dadf3345ee055e0caa62f882d
 Section: 工具
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
@@ -2007,6 +2049,24 @@ Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/classicfolders 3_3.0.4.5_iphoneos-arm64.deb
+Size: 3282108
+MD5sum: 406692e52d75ff47e7c6bb84b54bc424
+SHA1: 8a4576e1ad774ed448ffd7b36ca08d5626782ead
+SHA256: f1d1f76e337a8abb408709010a7926b0dfbdf5333b3461455ecc027cbb420651
+Section: 工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Version: 3.0.4.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4348
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: ./debs/com.dao.classicfolders3_3.0.4.5_iphoneos-arm64.deb
 Size: 3282176
 MD5sum: 4c581fac5e530591c9863a44d58ac230
@@ -2229,6 +2289,22 @@ MD5sum: b6eb52db721a919d94f4deead748bd82
 SHA1: 8e2c48017ee8bc6d0753a926dd1a8b1d59f3326c
 SHA256: 7ca53e8d9dd33d9b9be24042a981b2114f95e1232a9cf42be9ea3463843ed17e
 Section: 嗨-工具
+Description: 真正的iOS系统清理和管理实用程序，破解版。
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro(rootless)
+
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/iCleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1101592
+MD5sum: 9ad0399614e76feb847de0c247578460
+SHA1: 7691ce9fcaa04a90e22fb01ca10911e8bac68da0
+SHA256: 7f49a55b311928dda84633c9b04d296a1227c92709544a3774e008dcc9a4c7b8
+Section: 工具
 Description: 真正的iOS系统清理和管理实用程序，破解版。
 Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
@@ -2596,6 +2672,23 @@ Author: Paisseon
 Name: Satella 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/satella/js.json
 
+Package: com.dao.satella
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/satella 内购破解_1.9.0_iphoneos-arm64.deb
+Size: 72576
+MD5sum: 3fff003dc0d4884b18e7c7001acadb5c
+SHA1: 90a750f57b2b3eabb40e6055217db4c5e2b97222
+SHA256: bcb521f85d22d407ea2d7d1b91e2baed3e0558b447d20d7217806cd8b99cdaeb
+Section: 工具
+Description: 牛X的应用内购买破解器，已包含简体中文包。
+Author: Paisseon
+Name: Satella 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/satella/js.json
+
 Package: com.dao.satella.cn
 Version: 1.9.0
 Architecture: iphoneos-arm64
@@ -2661,6 +2754,24 @@ MD5sum: 89f58ae95c8b0f8f1e17a6d793384952
 SHA1: b563bbb1bbe37a9582bd374d9c6e5b9bb11b9eda
 SHA256: f0705375b239406ed60f3f070bdc3006d97955c7d7f74459e20faeca74aa66f0
 Section: 嗨-工具
+Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
+Author: SoCuul
+Name: SCInsta 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
+
+Package: com.dao.scinsta
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: SoCuul & 妖刀
+Installed-Size: 1904
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
+Filename: ./debs/SCInsta 中文版_0.4.2_iphoneos-arm64.deb
+Size: 496304
+MD5sum: e98a5c4fab9fdb29a4e7a82c4be6e0de
+SHA1: 8a0e68f46bfbab8e6440972dbcd915cd52d46b88
+SHA256: a75b258c671d93ae6181563a6cb9e67969698bab064142f6eda25c8979592054
+Section: 净化
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
 Name: SCInsta 中文版(rootless)
@@ -3778,6 +3889,21 @@ Section: 嗨-汉化
 Description: Filza 中文增补包(rootless)。
 Author: Mo/妖刀/Alucard
 Name: Filza 中文增补包(rootless)
+
+Package: com.hk.floatingdock16.cn.rl
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: ./debs/com.hk.floatingdock16.cn.rl_2.3_iphoneos-arm64.deb
+Size: 1356
+MD5sum: f869166d98bcca69a972927be974d09d
+SHA1: 6dac69ed960dea7148d71019ab2c46f5860322dc
+SHA256: f08402aebffe769a1537c81a37be0c1f50d456a276c24ee25e31a6178c243398
+Section: 汉化
+Description: FloatingDockXVI 简体中文包(rootless)。
+Author: 妖刀
+Name: FloatingDockXVI 简体中文包(rootless)
 
 Package: com.hk.floatingdock16.cn.rl
 Version: 2.3
@@ -5115,6 +5241,24 @@ Maintainer: SquidForce
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.chr1s.newtab
+Filename: ./debs/Safari浏览器增强_1.0_iphoneos-arm64.deb
+Size: 6244
+MD5sum: a2b0fbf5003d092c4af4e1fd4bd3175f
+SHA1: a5e7a1c9971cbdd524fdaed3bd2d9193ccb099b6
+SHA256: 535b82a6e85ed7faaf6381f631deba9aa1a5ce778f9cd2b2075a72ceac2a0ea7
+Section: 工具
+Description: tweak for Safari
+Author: SquidForce
+Name: ControlTab - 控制Safari标签页
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.controltab/depiction.json
+
+Package: com.lclrc.controltab
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.chr1s.newtab
 Filename: ./debs/com.lclrc.controltab_1.0_iphoneos-arm64.deb
 Size: 6240
 MD5sum: ce9530716c345689fa5645d9a4a740b7
@@ -5509,6 +5653,22 @@ SHA1: 88e2fed770c9098d5d6f0f8d49bc4d4be8ce45f8
 SHA256: d1396601f78b07e9be465ec73cb5df2a989ff4c0848de19f0d07c0df3b563caa
 Section: Tweaks
 Description: iOS 16上的浮动Dock（M哥汉化）
+Author: Ethan Whited
+Name: FloatingDockXVI
+
+Package: com.nahtedetihw.floatingdockxvi
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_2.3_iphoneos-arm64 (1).deb
+Size: 397592
+MD5sum: 56c850112cfefde561436df85b21ea65
+SHA1: a1874c940456aad7268057e07d3e3b247358ac29
+SHA256: 8955c11e68284d4b3919229fa403941a870aeee3192a8657581c6d3938000884
+Section: 美化
+Description: Floating Dock on iOS 16
 Author: Ethan Whited
 Name: FloatingDockXVI
 
@@ -7446,6 +7606,22 @@ Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移�
 Author: x✨
 Name: 百度地图优化
 
+Package: com.xx.baiduhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/百度地图净化_1.0.2_iphoneos-arm64.deb
+Size: 102860
+MD5sum: ffa3b62d4cc6205653dec4f8ab7c32ef
+SHA1: 7cec1e9957a08e0a44179cf52172ee779346ee0d
+SHA256: afb7d7d594b799a3627600895d089ae6394c44133b2191c0ef7e3f7d3a520bb0
+Section: 净化
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部tab | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.2更新内容：新版支持
+Author: 又是深情的一天
+Name: 百度地图优化
+
 Package: com.xx.dyhook
 Version: 1.2.3-1
 Architecture: iphoneos-arm64
@@ -7459,6 +7635,23 @@ SHA1: ebbb873c281c88f863fccd612616563683e81ac5
 SHA256: 9e641b71fba3347d8bf63e8812db83810f6a483bb59258a640680b4ba669e422
 Section: Tweaks
 Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层_1.2.6-3_iphoneos-arm64.deb
+Size: 618208
+MD5sum: e769ac5b9a2e64ee12209705a69e825f
+SHA1: 5ad4ab360e0133a39ed0ba9be0fa19f07797b700
+SHA256: 3ed97a597e352158026687c272f0cdda8660be7a17b8421ec52fe2ada1c7fa6a
+Section: 净化
+Description: 又是深情的一天-搬运
 Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
@@ -7592,6 +7785,22 @@ SHA256: 25167a095af83217b12b85d97f6357c00d3087525b49457976a7682d8f69bae8
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.2更新内容：优化首页搜索下方无用视图移除
 Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/高德地图净化_1.0.3_iphoneos-arm64.deb
+Size: 101060
+MD5sum: 46b3da47a63f6d92fca3fdaee6f8f5d9
+SHA1: d30825f353a2f4600580c598edd1e3f566f71236
+SHA256: 82492b20eaa89afd32fc24702e7d5f09868eef3a73f0925cdabd3cff9032adf4
+Section: 净化
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
+Author: 又是深情的一天
 Name: 高德地图优化
 
 Package: com.xx.gaodehook
@@ -7736,6 +7945,22 @@ SHA256: 1d86370cd37b1b64bbe0e760f80bbf5677c65f5eda77056e0c9809f61fedbb22
 Section: Tweaks
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.4:移除底部拍摄 | 显示视频发布时间 | 版本号
 Author: x✨
+Name: 快手Hook
+
+Package: com.xx.kshook
+Version: 1.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/快手净化_1.0.5-1_iphoneos-arm64.deb
+Size: 135320
+MD5sum: 45167afb13d836bf0018b0ec38056b81
+SHA1: a54ff46cbc8f54006cb99dd37b393eb681927f2b
+SHA256: 6476d815c0494e22b6cbe53048518cb666dba97c2969e2da513ba60b71ccfba6
+Section: 净化
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能:移除一些广告,弹窗,无水印保存视频图片
+Author: 又是深情的一天
 Name: 快手Hook
 
 Package: com.xx.kshook
@@ -7929,6 +8154,22 @@ Section: Tweaks
 Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
 Author: x✨
 Name: 小红薯调整
+
+Package: com.xx.xhshook
+Version: 1.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/小红书_1.0.7-1_iphoneos-arm64.deb
+Size: 63956
+MD5sum: 1b13712d77d35b3d384ef76c5300df30
+SHA1: 643a04ace2b2775a5c4e6586b55617ba9e295c96
+SHA256: f868875076b28150e16e312515489035df588978b7270f113d1d0c652cee592f
+Section: 净化
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
+Author: 又是深情的一天
+Name: 小红薯
 
 Package: com.xx.xhshook
 Version: 1.0.8
@@ -10724,6 +10965,24 @@ Depiction: https://repo.cypwn.xyz/depiction/1481
 Icon: https://img.chariz.cloud/icon/joe/icon@3x.png
 Name: Joe
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1481
+
+Package: xyz.cypwn.kuku
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/kuku通知美化_1.5_iphoneos-arm64.deb
+Size: 254856
+MD5sum: 87381161b2da2121d13742227fbf8924
+SHA1: 4e0cc302f3647f5bd18430aa5b60c4225565f988
+SHA256: 6643dbbdbcdc6ec050c1292f78ed97d60861c2a3e4d1001e1603d76c39a62eee
+Section: 美化
+Description: Customize your notifications banners
+Author: b4db1r3
+Depiction: https://repo.cypwn.xyz/depiction/2400
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/kuku.png
+Name: KuKu通知进度条美化
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2400
 
 Package: xyz.cypwn.libnotifications
 Version: 0.3-6-1
