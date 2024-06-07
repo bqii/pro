@@ -25,12 +25,13 @@ gzip -fk Packages
 
 # Create the Release file
 cat <<EOF > Release
-Origin: 💫Axs pro✨
-Label: 💫Axs pro✨
+Origin: 💫又是深情的一天
+Label: 💫又是深情的一天
 Suite: stable
 Version: 1.0
-Codename: VCR666y
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 自用插件分享，有问题请卸载！！！
+Codename: bqii
+Architectures: iphoneos-arm64
+Components: master
+Description: bqii Sileo Repository
+Icon: file://CydiaIcon.png
 EOF
