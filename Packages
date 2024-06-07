@@ -1608,6 +1608,824 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
+Package: com.leisu
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.leisu_1.2_iphoneos-arm64.deb
+Size: 2820
+MD5sum: 98a2d452d3f2098178aff291ab8d1de7
+SHA1: 1ef1576d00f2cf09781c76e65a4773395cdec627
+SHA256: 9a741fdea4629c285ef87cf2290ac364ad1967012766d3896b22a5a9afefd72e
+Section: Tweaks
+Description: 雷速体育去启动广告、屏蔽更新
+Author: M哥
+Name: 雷速体育-rootless
+
+Package: com.live4iphonerel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.live4iphonerel_1.0_iphoneos-arm64.deb
+Size: 4992
+MD5sum: 5df1401758775bfdfdf70f8a4054b20e
+SHA1: 97434c630588132444de23bc6dffc1372220ae44
+SHA256: 5b1a223dee788d5ec3ca4996a95c979ffe8e7580a2c6acf191f7cbbacf0c94a1
+Section: Tweaks
+Description: 腾讯视频去广告
+Author: M哥
+Name: 腾讯视频NoAd-rootless
+
+Package: com.lizi.stupidenglishhdpatch
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 玩游戏的李子­- <lizi54188@outlook.com>
+Installed-Size: 88
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Filename: ./debs/com.lizi.stupidenglishhdpatch_1.0_iphoneos-arm64.deb
+Size: 3008
+MD5sum: 310c648fd2dc7c955bef1432cec2dacd
+SHA1: fd5ecaee2c377c1eacf074dd8e7a82e68fd695ab
+SHA256: 23318a8d054dde941086d856621e2350dcc0205e3be537795be599126faf9362
+Section: Tweaks
+Description: ***Made using Flex To Theos updated by Randy420***
+Author: 玩游戏的李子- <lizi54188@outlook.com>
+Name: 傻瓜英语HD Patch
+
+Package: com.lockscreen
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.lockscreen_1.1_iphoneos-arm64.deb
+Size: 3396
+MD5sum: e43817cc352cc4b72dbafc658bf9b717
+SHA1: 0dfab87516a48e765058a282ecbe335bf9e525ae
+SHA256: 3ac73b51f420e721e1b8d24b8090894421cebc90dc3ce97b1670f514b7218d3e
+Section: Tweaks
+Description: 省电模式电池颜色保持原生、锁屏来电拒接按钮、去锁屏音乐控件、屏蔽屏幕截图/录屏检测、隐藏锁屏底部文字提示、禁止锁屏充电亮屏
+Author: M哥
+Name: 锁屏优化-rootless
+
+Package: com.maidanba
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.maidanba_1.0_iphoneos-arm64.deb
+Size: 2256
+MD5sum: d7e5460582c7af7735615c2ae266773b
+SHA1: a8f3255ca1b256fe7648dab754d3ac770de93dc0
+SHA256: ccdb340d15871b91ba81116755dffb37771bfd551f6a3773f71d748b0ca556f8
+Section: Tweaks
+Description: 买单吧去启动广告
+Author: M哥
+Name: 买单吧NoAd-rootless
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 296
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
+Size: 42992
+MD5sum: e98e7eede3cc05f081c54fbd19d3d429
+SHA1: 23c78ea1225f06de045f7e5e570a84703963e868
+SHA256: ad860c13412ded1618d96a4baaa73d6766bf1b738198f9360d9cccbb1a0ce1ad
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mtac.ampere
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 604
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64.deb
+Size: 101724
+MD5sum: a5357abf4fb02f5f4eb472731998af23
+SHA1: 8dec1286689d69abf7464d0693d30b2d1786441c
+SHA256: bfc5dc49ca37864d8e4dafc5c7fa345d227214d7f01fb8d93f3fca9408047eb2
+Section: Tweaks
+Description: iOS16 电池百分比风格！
+Author: MTAC
+Name: Ampere
+
+Package: com.mtac.launchlogo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 432
+Depends: firmware (>=14.0)
+Filename: ./debs/com.mtac.launchlogo_1.0_iphoneos-arm64.deb
+Size: 32876
+MD5sum: cebc110a97b56fc2ebee5d607ed0bc30
+SHA1: 9ca7262ffe9001d643a11d3b660e12841ece77c4
+SHA256: f7b85cd61ff3a2bd4498caa7c4b332854f85bdf8e900e51fb671d5dd0a1b97ff
+Section: Tweaks
+Description: 仅在注销期间，苹果启动的logo自定义设置
+Tag: purpose::extension, role::developer
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+Name: LaunchLogo
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
+
+Package: com.mtac.lynxtwo
+Version: 2.5.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2744
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_2.5.2_iphoneos-arm64.deb
+Size: 640176
+MD5sum: 6f1095d0ea06ade100d0866993e84851
+SHA1: 4ce906bbc153407eed01d4e7f46101959c39e438
+SHA256: 0015fbe4918cd127efdd0c74ecae5ddf99d84711709b6db3935eeb76dc5d1c3a
+Section: Tweaks
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Author: MTAC
+Name: Lynx 2
+
+Package: com.mtxx
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.mtxx_1.1_iphoneos-arm64.deb
+Size: 2962
+MD5sum: e380594170251f5b05cf98f3fc32b914
+SHA1: c13b6b50c19932b1df5c73c0fb65920fbe2f5eb7
+SHA256: a7ce5e7320e0ca7ff9caf1f1cd0f84b44c1b4c36c44b6346277204f217cbfa15
+Section: Tweaks
+Description: 美图秀秀去广告
+Author: M哥
+Name: 美图秀秀去广告NoAd-rootless
+
+Package: com.nahtedetihw.floatingdockxvi
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_1.9_iphoneos-arm64.deb
+Size: 396272
+MD5sum: 9b3813d801c1759b7bc0438d4503a0b6
+SHA1: 88e2fed770c9098d5d6f0f8d49bc4d4be8ce45f8
+SHA256: d1396601f78b07e9be465ec73cb5df2a989ff4c0848de19f0d07c0df3b563caa
+Section: Tweaks
+Description: iOS 16上的浮动Dock（M哥汉化）
+Author: Ethan Whited
+Name: FloatingDockXVI
+
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4637852
+MD5sum: 7c02190692158746803f6ccb3a10a708
+SHA1: 27458e206f55e2c25e7394d5848e0ea709bf288c
+SHA256: ba8a51c489687cd2b0b0528b17cc3a9ca8927d513f20b207bde69c720a8f5be8
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 695996
+MD5sum: 390f189db06ebbe7510a44a77d9e61af
+SHA1: effe0adbe57f297eb9305480982d190a6a07d7da
+SHA256: 9ba98e8ebae78f22fd5394f714834bfa011e928df80aa87854ad406dc3406900
+Section: Netskao-Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
+Package: com.netskao.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1432
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.showtouch_1.0.4-3_iphoneos-arm64.deb
+Size: 375530
+MD5sum: 682cc5a1d2d99f4a2d5d795b831f6b02
+SHA1: 23efe1c17af2aaa2c42244f0ab16eaf1de1e34a8
+SHA256: aa76032ae10920e6db19e36a821ab6624baff4077f20c52486091f43be52d56b
+Section: Netskao-Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch
+
+Package: com.netskao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 460
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
+Size: 102596
+MD5sum: 65d696c2326580afe5b059fa10bd4608
+SHA1: d19f42275890cc90e5405db3459ecf22524a03a4
+SHA256: e2696c7ca404dacad97d18456c79510859d6de5363a950cd641f8d50d91d963a
+Section: Netskao-Tweaks
+Description: 方便登录帐户在不同地区之间切换，长按桌面AppStore图标即可切换！
+Author: Netskao
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/storeswitchaccounts.png
+Name: StoreSwitchAccounts
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1156
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-3_iphoneos-arm64.deb
+Size: 225230
+MD5sum: b10105c255bad1dd4d21958ec20b2320
+SHA1: 075ed7d92b8136d6eb35a23e7611a101750d1631
+SHA256: 4c6f9d34cd47a4d57cf4f81c7a95e6ae55702e2c76bd08f6b1916bfefc0403e1
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: com.news
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.news_1.0_iphoneos-arm64.deb
+Size: 4600
+MD5sum: db2d896dd94cf876ae9cd587110b2b38
+SHA1: ea32317bcf29c3e0ac9acc004bd37b59984719be
+SHA256: 7c5870a1d75579e947e327235c81d76ea89ecc5f7df048967b5f46c6da874f7f
+Section: Tweaks
+Description: 今日头条去广告
+Author: M哥
+Name: 今日头条NoAd-rootless
+
+Package: com.nicho1asdev.bigsurcenter
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: nicho1asdev
+Installed-Size: 1952
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.3_iphoneos-arm64.deb
+Size: 768836
+MD5sum: a5fb9ba8f45df8cc76d53f435ec0bd55
+SHA1: 1e54c8a7e26e9117ee4cd699d6ddb3abb014ed2b
+SHA256: 3c81dd250a5d4fe1f4c6b265fab37c267663e8d942d87b70661cfeeb352e6bae
+Section: Tweaks
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
+Author: nicho1asdev
+Name: BigSurCenter
+
+Package: com.nicho1asdev.bigsurcenter
+Version: 1.4.4-B
+Architecture: iphoneos-arm64
+Maintainer: nicho1asdev
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.4-B_iphoneos-arm64.deb
+Size: 905232
+MD5sum: 366aae8f10cd6fed48c0f65bd6faf2f0
+SHA1: fe4a47f8762f6e8331bca6784aab6375197ebbc7
+SHA256: 0482b7e9ebd80ca66b67ee258c881ca701273453426c5f27936234f48c684613
+Section: Tweaks
+Description: BigSurCenter轻量级的iOS控制中心。                                                     1、安装插件后会弹出空间重启英文界面，选空间重启。                                                                                                                 2、在设置中激活BigSurCenter的时候需要关闭VPN。                                                                                           3、加入北凉小刀刀汉化。
+Author: nicho1asdev
+Name: BigSurCenter（破解版）
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 635
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-2_iphoneos-arm64.deb
+Size: 95820
+MD5sum: b38572244a896362027d1b440ad28a0a
+SHA1: 109fa402c8179ead00c6ba842114ba994eef28ae
+SHA256: 7e781de23e32392703c2b5b0955d08d1f02f3ef2cbca8b067b1ddb9d642ab56f
+Section: Tweaks
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-3
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64.deb
+Size: 95422
+MD5sum: 73091f5e4411fbd42a9e54aa0f3fc13a
+SHA1: d040c4851660ac3d913c76fa8fe87e0dd3fe82d6
+SHA256: 60c2aace71723542f533721307f6dfc37a07d3c58c7fe449688bc1c6136f75f1
+Section: Tweaks
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
+
+Package: com.notification
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.notification_1.1_iphoneos-arm64.deb
+Size: 3248
+MD5sum: aa8644a898ae09ebf0f15e8a6db8b52b
+SHA1: 09dc2977e6c0b67a60227cb4dad7f5d65e91468a
+SHA256: 7cd4529d8ffb35ba9723328a11ab759aaecf4e08b7fc776a3531181eebe2b844
+Section: Tweaks
+Description: 通知中心左滑清除右滑打开、隐藏通知中心上/下分割线、隐藏通知中心翻页
+Author: M哥
+Name: 通知中心-rootless
+
+Package: com.onetravel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.onetravel_1.0_iphoneos-arm64.deb
+Size: 5064
+MD5sum: cb4347c7de1704dc8fa9cc446e8fbf51
+SHA1: 1537d15738bcc6742c0aee1655dfe24ddabf1dc9
+SHA256: 50119fb0c2b924879710ad6a98ac386862a3ca88a1603e9880df276ebee0e5c5
+Section: Tweaks
+Description: 滴滴出行去广告
+Author: M哥
+Name: 滴滴出行
+
+Package: com.opa334.altlist
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 388
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm.deb
+Size: 46768
+MD5sum: 1667c6554431e6b6e5ef6af26bc70123
+SHA1: 414c8470bed7b498d60cf5ebb7228baacad2317f
+SHA256: d621b52c6180ada141b31cdc4389faed1ee8059c0961395a512779ee5f8d9f02
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.altlist
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 27752
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.cccleaner
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 0
+Depends: firmware (>=11.0)
+Filename: ./debs/com.opa334.cccleaner_1.1_iphoneos-arm.deb
+Size: 11610
+MD5sum: 57685ba2c1c468a781fa9c99a667fe0c
+SHA1: 06cf701f7e0540affe45431446f9a26c84da4958
+SHA256: 0c1da0d923102f831f6b849599b8babeebbaefee37f1a59e14289a57a0918042
+Section: System
+Homepage: https://opa334.github.io/
+Description: Cleans up modified CC system files!
+Author: opa334
+Depiction: https://opa334.github.io/depic/CCCleaner/index.html
+Name: CCCleaner
+
+Package: com.opa334.ccsupport
+Version: 1.3.10-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 460
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm.deb
+Size: 59458
+MD5sum: d282fb43c3fc5b11092b3c975e55795d
+SHA1: 6e4d64bb3a8ce2a50ae78f865ec276ec9e70155e
+SHA256: 81e2eaa9d5c7811b7877333196300f68186816f56722f33e60a29244056d46c1
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Name: CCSupport
+
+Package: com.opa334.ccsupport
+Version: 1.3.10-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 528
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm64.deb
+Size: 55666
+MD5sum: 23732eaa7371484cc241baf9bf20c858
+SHA1: 7a666035709a9f4668a95b783b3bca25a6e7aab1
+SHA256: ba9d53511fcde08c4edb3bd4a52a5beb4c76c2144224f18b4ab1e771f506cd25
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Name: CCSupport
+
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 104702
+MD5sum: f93895c1e4cd1022da50a49bf615e31b
+SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
+SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1092
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.4.10-3_iphoneos-arm.deb
+Size: 163648
+MD5sum: 1815b977cc442dfdb9664b94ff54f853
+SHA1: df3fff53aebd13b3068cdff0200ba6fd701f148e
+SHA256: a157dd402a886e4fe8751da93c5c5c23beca1a01116dd2b0b8126ee92fff87bc
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
+Package: com.opa334.choicyloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 196
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.0_iphoneos-arm.deb
+Size: 20632
+MD5sum: da1781cdf0e44ff51483183bd752bc2f
+SHA1: 20388123389d3ef43b1d78b847f01e96bcb6a92a
+SHA256: 9eb2dc25cff038636b87debc3a0ec2c84fc210616de39a11dfd52f59de1b49bd
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.choicyloader
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 244
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.1-2_iphoneos-arm.deb
+Size: 21530
+MD5sum: 11e41299f9aad5d3e9acf24d0c0ca395
+SHA1: d8210bce4e7a239d631e94d21a6a9ef284c01ef5
+SHA256: 4aca7f1381596f796ba85beeb2d33549273f22ee5ad2338e190cb0d9db28314a
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.choicyloader
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 228
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.2_iphoneos-arm.deb
+Size: 20154
+MD5sum: e4ef5b55908590a1da0a0d0a9a68cfa4
+SHA1: f006315c2a3aee3a6c2260816d14896b032109d5
+SHA256: 42632398918197411b108a28eb26deabdb157bef612c634861126a4587d1af8c
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.choicyloader
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 228
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.2.1_iphoneos-arm.deb
+Size: 20604
+MD5sum: 3f427b1df1241b164fb2d742c42babf2
+SHA1: 0846a9c56934ff77ca4e036d0e07936a5cace9f2
+SHA256: 81399615afbe98f00a4f4b15079c75d236f3a8f445ef3925d49e3761c4d70dee
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.choicyloader
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 228
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.2.2_iphoneos-arm.deb
+Size: 21216
+MD5sum: 9a120f6306072fbcc131510925531a61
+SHA1: 215f246f3b07ddc05e285791bb816c3cf863dfd1
+SHA256: 07eb972058c63d79776361bf9c6a5c35a5d43d2834a003e8397b9e436985621e
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.choicyloader
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 228
+Depends: com.opa334.choicy
+Conflicts: science.xnu.substitute, com.ex.substitute, org.coolstar.tweakinject, org.coolstar.libhooker
+Filename: ./debs/com.opa334.choicyloader_1.2.3_iphoneos-arm.deb
+Size: 21280
+MD5sum: 6a144b3c43b6bc963d874cdff7da4ce4
+SHA1: 81028e8c897b5ae6b3ba571c22a7836cffa4c05b
+SHA256: 21da3b2e3d586de1da895ab09de1a594f1dc1ab137d8ebc2a8c4460f55266a5d
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
+
+Package: com.opa334.fastsafaripw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 296
+Depends: firmware (<=10.3.3), mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.opa334.fastsafaripw_1.0_iphoneos-arm.deb
+Size: 18930
+MD5sum: ba21d1b735c245ac349855b20d79248c
+SHA1: 6984e41a607feeb1e30ed14d76c71c1f2e4949f8
+SHA256: 66cf175dfb24f62003e02150aaece46e1dc948a2497c1424e09bfc2d222960bf
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: A fast way to access 1Password or LastPass!
+Author: opa334
+Depiction: https://opa334.github.io/depic/FastSafariPW/index.html
+Name: FastSafariPW
+
+Package: com.opa334.libsandy
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
+Size: 12266
+MD5sum: 007f4f9150b1b2f3336ff133e6c99f1d
+SHA1: 06a39a4ebec196eeb29bc2101f0ccee1203c3429
+SHA256: 5371019a18baf38603aeb674ccbf3911c0a7b164dfc4752cb3c357dbe2dec612
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
+Package: com.opa334.libsandy
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 436
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm.deb
+Size: 24314
+MD5sum: 85373e4c1408f20da6793966ade66936
+SHA1: c98398405c3a8b6b021b73085d1ed8568127a34f
+SHA256: 6a410fa8b63482cedb0d7ed23dbe87e90d4289c096101f091803084bf808825b
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
+Package: com.opa334.libundirect
+Version: 1.1.4-3
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 296
+Filename: ./debs/com.opa334.libundirect_1.1.4-3_iphoneos-arm.deb
+Size: 10826
+MD5sum: 75b673e4067252303c7d399ccda6c5c4
+SHA1: 6547f796b4ac3aa9a76d4d45ebd709ed608eeb45
+SHA256: 4d74054d67904563ddfc57cbdfb6c65d6c4eb95beb50c2c555074c4b0bb8a401
+Section: System
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Author: opa334
+Name: libundirect
+
+Package: com.opa334.notrecording
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 352
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.opa334.notrecording_1.1.1_iphoneos-arm64.deb
+Size: 15844
+MD5sum: 2eec55444a92beda10efb056e6ab7910
+SHA1: 0a9b320d1c82d5f8ac75713c69d6f77dd150b798
+SHA256: 3f4dba6865847eff845dc8157632b559c9ff180163eb119c6d0ad5a3f734b444
+Section: Tweaks
+Description: Spoof screen recording detection!
+Author: opa334
+Name: NotRecording
+
+Package: com.opa334.notrecording
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 416
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.opa334.notrecording_1.1.1_iphoneos-arm.deb
+Size: 21936
+MD5sum: a8da7da94020316280ab6fef3f7496be
+SHA1: bb9a8d80be27d61faccaa90c4820eef683fae87e
+SHA256: 147d79e2429aa6d8ca331fc2bac097ab03ac6a5dd69a3d797e315f952076c67e
+Section: Tweaks
+Description: Spoof screen recording detection!
+Author: opa334
+Name: NotRecording
+
+Package: com.opa334.powerloghelperdfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.opa334.powerloghelperdfix_1.0_iphoneos-arm.deb
+Size: 3344
+MD5sum: 05378ef29b1af1723a1ef69a146e17f8
+SHA1: 28afd1239a2fbd18da6efffba7ae25dc11a4539e
+SHA256: 2e3fe2a753ae5514b1f81cb322c3736ecb5109256f47beaa3532aaff134b79d5
+Section: Tweaks
+Description: Block tweak injection into powerlogHelperd!
+Author: opa334
+Depiction: https://opa334.github.io/depic/powerlogHelperdFix/index.html
+Name: powerlogHelperdFix
+
+Package: com.opa334.safariplus
+Version: 1.7.22
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 5548
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.opa334.libsandy, com.opa334.libundirect (>=1.1.3) | firmware (<<14.0), ws.hbang.common | firmware (>=11.0), com.creaturesurvive.libcscolorpicker | ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.opa334.safariplus_1.7.22_iphoneos-arm.deb
+Size: 1185912
+MD5sum: 6f612c4d2496d5604cc43b8c4c1652f7
+SHA1: 868dc44f68c646ad3c9fd529aa7ae3882fb06523
+SHA256: b6848465d19017c17a84a37ee19bff7188e806bda6ce215747e48b4487a017bb
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Name: Safari Plus
+
+Package: com.opa334.safariplussnakeoil
+Version: 1.7.20-2
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 5500
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>=1.1.3) | firmware (<<14.0)
+Filename: ./debs/com.opa334.safariplussnakeoil_1.7.20-2_iphoneos-arm.deb
+Size: 1180746
+MD5sum: 9c22bce925f2d0ba4ef2effae5a35d21
+SHA1: 3ceae7e8458a5331c5d2f81e840c91631e4cbfbd
+SHA256: 707455afe640d7e633585409079104698d7f4c5820d2dbd9994d2449104515cb
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Name: Safari Plus (Cepheiless)
+
+Package: com.opa334.timebomb
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm.deb
+Size: 3184
+MD5sum: 403436d75a47fc6a00d8ce1cdd17844c
+SHA1: ffd17119de7528854beaef7e8654217474b38dcd
+SHA256: 773f4c2914f8e4fe6a90a3bb1c134ac2404436d307467cd9036da0188f0994e4
+Section: Tweaks
+Description: Spinlock timeout with ease!
+Author: opa334
+Name: TimeBomb
+
+Package: com.opa334.timebomb
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm64.deb
+Size: 3236
+MD5sum: acdd35bf010fc93629a84c403aa49827
+SHA1: 5cf8693094f866be03b1feb00c3ce348540595d6
+SHA256: 40df8f89b6c5011bee79b0575a9523e7b615c82b955c202c7f6e1977d24efb84
+Section: Tweaks
+Description: Spinlock timeout with ease!
+Author: opa334
+Name: TimeBomb
+
+Package: com.opa334.trollstorehelper
+Version: 2.0.14
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.0.14_iphoneos-arm64.deb
+Size: 1919320
+MD5sum: 58771430182220ae123666c341d861a2
+SHA1: 91249f78efe2bbeebb26a736bf9bcbba2f8b81b3
+SHA256: 78c5a4f21df5d2897dbace13f99098be9b0b1ccf164d25a160d35241a4767495
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
 Package: com.opa334.trollstorehelper
 Version: 2.0.15
 Architecture: iphoneos-arm64
@@ -1622,6 +2440,93 @@ Section: Applications
 Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
+
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 184
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm.deb
+Size: 16964
+MD5sum: 29fa27d72d9875bf5252cb2d0d74dc06
+SHA1: 7466e0759b7f580f9d20928c23a724095bd4d5a2
+SHA256: 2b6891d8e0096f795ab12b467c4b0cb1a55a1c6ad07b1d3a18c3868f53f2dbbc
+Section: Control Center (Modules)
+Description: Reduce White Point from Control Center!
+Author: opa334
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: White Point Module
+Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 216
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm64.deb
+Size: 14950
+MD5sum: dda37c21e8ed67c1eb7ddfd60a978002
+SHA1: 7e34a06cb39600b43a16d33dc0800257ce8a7e20
+SHA256: 85d78767cf8746f8809aceea74b70120fcd0fd36e9d58dda5fc614fdcab1174d
+Section: Control Center (Modules)
+Description: Reduce White Point from Control Center!
+Author: opa334
+Depiction: https://opa334.github.io/depic/WhitePointModule/index.html
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: White Point Module
+Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
+
+Package: com.pinduoduo
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.pinduoduo_1.1_iphoneos-arm64.deb
+Size: 4774
+MD5sum: 3275c2338eec2d6981e2c8f7e0247e5d
+SHA1: d4a4b59a597b13263d359e99911fc68427ef5982
+SHA256: f331ba82d2403c7fb222d77545ff95e86fa4088c7a61b244a94fa45e5b0fa504
+Section: Tweaks
+Description: 拼多多去广告
+Author: M哥
+Name: 拼多多-rootless
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Installed-Size: 656
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1_iphoneos-arm64.deb
+Size: 93116
+MD5sum: 21b17183053b00d2f3d4fd99a4e8791a
+SHA1: 59a724b54a096f61ebe77dc9f74ec3d14b319960
+SHA256: f1e9cf4a061a2fcddf0a51d45d820ac8fa669697cde066c8d5e8e907898e0bd7
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
+Name: SwipeExtenderX
+
+Package: com.runner
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.runner_1.0_iphoneos-arm64.deb
+Size: 2190
+MD5sum: 5e09026d41c0d64f3e878be94f999556
+SHA1: eb68bad0d10619e0e1886e013ad9588168cd521c
+SHA256: 186132ffb9e65c2f4edae43740f82b35d3e863ba2ffcf67cd9597fe57dad80ba
+Section: Tweaks
+Description: 闲鱼去启动广告
+Author: M哥
+Name: 闲鱼去启动广告-rootless
 
 Package: com.ryannair05.cask3
 Version: 1.0.2
@@ -1642,6 +2547,41 @@ Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/cask-3
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Name: Cask 3
+
+Package: com.smokin1337.togglow
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1172
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.smokin1337.togglow_1.0.deb
+Size: 342568
+MD5sum: 6c0576392d6da17fd1ed042f07cccc5c
+SHA1: a0d8d2f6e0ab9478cb93545eff030186aed49c68
+SHA256: ee03fef6e685a6f9348db574d83994ab3205752bf6a0c5e8d1b120146cbf4dfb
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
+Name: Togglow (rootless)
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/Togglow
+
+Package: com.snail.always120.rootless
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 760
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.always120.rootless_1.1.7_iphoneos-arm64.deb
+Size: 195298
+MD5sum: 7de17ab89b27e7428af918dede80278d
+SHA1: 06cd780269a447c7797bef7b371bfae6f369b4dc
+SHA256: c22276ccb1c293b355b5fcc86ad4d4fd207a58b6688ef49b95e5ebfbd5a57c7a
+Section: Tweaks
+Description: 使iOS 15/16越狱高刷机型自适应/锁定120HZ。 Make iOS 15/16 ProMotion Devices auto-adpat/reach to 120Hz.
+Author: Snail <mu514983786@gmail.com>
+Name: 蜗牛自适应+锁定120 Always120
 
 Package: com.snail.byebyelaunchad.rootless
 Version: 1.3.1
@@ -1678,6 +2618,366 @@ Description: 跳过所有主流APP开屏广告，可以自定义对任意APP启�
 Author: Snail <mu514983786@gmail.com>
 Name: 蜗牛拜拜开屏广告-rootless ByeByeLaunchAd-rootless
 
+Package: com.sogouinput
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.sogouinput_1.0_iphoneos-arm64.deb
+Size: 5852
+MD5sum: f2348f655d9a74dbb16a675b6d0e7026
+SHA1: dfbaa8f95f06fe9a11f5f93ae42a436e4f2eabb4
+SHA256: f6c47327f0e6e168668f3b8a3128e3326e355732f68b9496b93950b3cbb173b2
+Section: Tweaks
+Description: 搜狗输入法去广告
+Author: M哥
+Name: 搜狗去广告-rootless
+
+Package: com.sop.settingsrevamp
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.sop.settingsrevamp_2.0.3_iphoneos-arm64.deb
+Size: 96056
+MD5sum: d34d9cebdfd309d8b024e4568ee3495f
+SHA1: 7e7de8f7eb83431ca1bd13a5fceafdd4e9ad167c
+SHA256: 503d143ea606c0ac4f87282781fdb3d6482d191b4ad28fee7145365fbff8f88e
+Section: Tweaks
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
+Package: com.squidforce.copyvault
+Version: 1.1.9
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 7896
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.squidforce.copyvault_1.1.9_iphoneos-arm64.deb
+Size: 2172142
+MD5sum: ecac6f5759981664c354d4d27ea6932e
+SHA1: ee3f310065e57ce87d8a8df31611b4f714626cb6
+SHA256: f375cd0943f542ebe5f9d065e9d185d7d5b6ef0b950a9ef0ec83d68b6a479b16
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+Name: CopyVault
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: com.squidforce.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: ./debs/com.squidforce.disablepastealert16_1.0_iphoneos-arm64.deb
+Size: 3986
+MD5sum: f34661ec7bc59a70e74297ad7c683a96
+SHA1: 7ba6ddd81114b393b2990f4caeeb82ebf60d77b5
+SHA256: 3d96316b5ed02aedc1c4f9ab0f834dffee364b3b168a8302912a0bac648d885e
+Section: Tweaks
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Author: SquidForce
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+
+Package: com.statusbar
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.statusbar_1.1_iphoneos-arm64.deb
+Size: 3320
+MD5sum: 5ec71820b36a48a56270fde321606af6
+SHA1: c26b4b79db89e05b4ddbb7fff6fef7080fd0eccf
+SHA256: 29d32c62f4b97e01cf9bad88ea03200ae83ff78ad4842551d30454df40a0164d
+Section: Tweaks
+Description: 状态栏隐藏（热点横幅、闹钟、蓝牙、热点、vpn、旋转、勿扰通知）图标
+Author: M哥
+Name: 状态栏优化-rootless
+
+Package: com.sunshinesong.floating-keyboard
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sunshinesong.floating-keyboard_0.0.1_iphoneos-arm64.deb
+Size: 82746
+MD5sum: a4c3b8ba789a30ce4a058682eb869fc5
+SHA1: 3b5fb1ba57007c9d3149e154e401be3c4b876b16
+SHA256: e43bf790ef28ccd86beb6330b69523a6d6269ed0c40034df2617fc9d146a1d39
+Section: Tweaks
+Description: 悬浮键盘，安装即生效，无设置页面。使用方式：双指捏合键盘可实现悬浮键盘，双指拉伸可关闭悬浮键盘。
+Author: sunshinesong
+Name: floating-keyboard
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
+Size: 5235286
+MD5sum: 33f77310f5bdd834c42317f85c4090fa
+SHA1: 7b1196127b2e7e3a70e10b5355f44930ef7e0a49
+SHA256: 459050045ebc1120ac4d642e57410840110c1c5263e2473460a89cf095b8f821
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.swing.bilibili
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.bilibili_1.1.3_iphoneos-arm64.deb
+Size: 18856
+MD5sum: 24fee776a6c704854cede9d535563d0c
+SHA1: 325006214e2cbe9900525c4f8201375ded81ce71
+SHA256: 92050d4c0c401da47bc62e5f074e32907f0b3c5aae292a1c9209baeefd569868
+Section: Tweaks
+Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
+Name: 哔哩哔哩NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.dpnoads
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.dpnoads_1.1.0_iphoneos-arm64.deb
+Size: 11936
+MD5sum: 13f595530fd39729c8c62bc0e64fbc2d
+SHA1: 506fee3cccf04db9a988e7014eebebf82bf92832
+SHA256: 80bea6e704cb08f6bb3c654600179ee444d96b2e9371cf772ff0f1c1cb779ffc
+Section: Tweaks
+Description: 百度网盘去广告，优化文件传输页面使用系统App来打开文件!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.dpnoads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.dpnoads/icon.png
+Name: 百度网盘NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
+
+Package: com.swing.eleme
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.eleme_1.0.3_iphoneos-arm64.deb
+Size: 12492
+MD5sum: af29adb61529a398e118ca15cc66c2d7
+SHA1: 381bb579df5cd121651405387464ac5996190f83
+SHA256: cd8e3479aff3d1f03dc211bcf68399f1ac3afaef4747dacce0ec38ec1d615232
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.jump
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.jump_1.0.0_iphoneos-arm64.deb
+Size: 5930
+MD5sum: d311c05cf65706006f2ed02990310942
+SHA1: e5f446b5c8ae4f3b30501bd35a80daace3a0d60a
+SHA256: b384ab744d63d352127a4a9d46622b4caedea26a4a543a52fd32df2cef4987c8
+Section: Tweaks
+Description: JumpApp去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.jump
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.jump/icon.png
+Name: Jump去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.jump.json
+
+Package: com.swing.padswitcher
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.swing.padswitcher_1.0.1_iphoneos-arm64.deb
+Size: 26324
+MD5sum: 68c4c719b315902cc82c8c7b7e3e5f48
+SHA1: 6f125062c482a2d67f09d890761cf32a8bfd8e1c
+SHA256: b983649283f2df5cba300b4a9818523246db86740e5241aad6395803a1aa29ed
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
+Package: com.swing.puretieba
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.puretieba_1.0.3_iphoneos-arm64.deb
+Size: 13494
+MD5sum: 6c23f4c5171fda399bf9da3971366329
+SHA1: a62843c4db78d17f2004d749c1c287c1e92a07e9
+SHA256: be72b377e10383d40ef8a2075d6863d0b946966ab762ca202e5982109346194f
+Section: Tweaks
+Description: 百度贴吧去广告插件，更新适配 v12.61.3
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
+
+Package: com.swing.qqmail
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.qqmail_1.0.0_iphoneos-arm64.deb
+Size: 5510
+MD5sum: 312b6066291a3b437ec3ac5778215b66
+SHA1: 2ba3a52e4618ef577e64de33230345f47302fca2
+SHA256: 7fa76abb24958796415f025f4579bcc60a6870adc85e525b6406540e7acce145
+Section: Tweaks
+Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.qqmail
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.qqmail/icon.png
+Name: QQ邮箱去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.qqmail.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.7-1_iphoneos-arm64.deb
+Size: 19184
+MD5sum: 51cab626de4d3887bacb015bea53ba01
+SHA1: 27b3a715d145f205a472dd35c0f7756d9b79ce4a
+SHA256: 48e2ded1cfda869090a42c846507165821b0e001146e2ad77ff0ca1455519572
+Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.weibo
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.weibo_1.2.3_iphoneos-arm64.deb
+Size: 28222
+MD5sum: e9b3cd8b23abdb4f1d036be520ae7a52
+SHA1: cdc64fdb09a80e250f0ac6c437ba3879d66246bd
+SHA256: f019a83cd9f292a0bb6fed4b3f54a8a5abb4bc415f64a52c887e93e4eed403c4
+Section: Tweaks
+Description: 删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibo
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibo/icon.png
+Name: 微博去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
+
+Package: com.swing.weibolite
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.weibolite_1.0.1_iphoneos-arm64.deb
+Size: 11310
+MD5sum: 07c8fb0fc4b0a489cbeaa8b7c7294436
+SHA1: 113ee50bf15e6225e021c7b3e56e82965272bf1c
+SHA256: 97273b63c7f400bf316d2efbb1a09f9af700cd162ef1316951c7a034e401b6b6
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.zhihu
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.swing.zhihu_1.1.2_iphoneos-arm64.deb
+Size: 14274
+MD5sum: 71145846ada428477920da6fc7046a30
+SHA1: d0cdd370fab1e83979a729e119df50b768a37a8b
+SHA256: c23298fcf99f2bce286697a62b764282239184a85d27ce307352700da1456055
+Section: Tweaks
+Description: 知乎去广告插件
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.zhihu
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.zhihu/icon.png
+Name: 知乎去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.zhihu.json
+
+Package: com.switchbackground
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.switchbackground_1.1_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 2dbfb7c5d6c7bf9f79eea252e6d11946
+SHA1: 823ff8dbc5b009e5685386a8a90dc395fb75359d
+SHA256: 1b7b3145222a3901e2cd5a33a10e7673d0b891d57e557da0df5ac2cf98fee3c3
+Section: Tweaks
+Description: 多任务后台透明、iPad卡片式后台、后台隐藏图标标签
+Author: M哥
+Name: 多任务后台-rootless
+
+Package: com.taobao4iphone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.taobao4iphone_1.0_iphoneos-arm64.deb
+Size: 4678
+MD5sum: f2340bee84edb9ec82ba77b7d4bc7df5
+SHA1: d14710779fdbffa33acf829a8040825ae174f4fc
+SHA256: d8ed9e95735cf81b42f10f44bf1cc7e09490069ba014ddca59de172b78df8dda
+Section: Tweaks
+Description: 淘宝去广告+精简
+Author: M哥
+Name: 淘宝（去广告+精简）
+
 Package: com.turann.randy420.appfetch
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -1696,6 +2996,366 @@ Tag: role::hacker
 Author: Turann and Randy420 <randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/appfetch.html
 Name: appfetch (Xinafied-rootless)
+
+Package: com.tzfzdd
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.tzfzdd_1.1_iphoneos-arm64.deb
+Size: 2920
+MD5sum: 21193e786efb823fc1f43425428d7924
+SHA1: 08820e3c95ec26cef2ba721dc380085c32fadbaa
+SHA256: 6a2c071930f68bb45ab77b7a3c6b4ac4d79c4879fdb576ca5d6777159d7b99ec
+Section: Tweaks
+Description: 禁止通知中心信息堆叠，不重叠可以连续显示
+Author: M哥
+Name: 通知分组堆叠iOS15-rootless
+
+Package: com.udevs.compactbatteryavocado
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0)
+Filename: ./debs/com.udevs.compactbatteryavocado_2.0.6_iphoneos-arm64.deb
+Size: 136138
+MD5sum: 5264251dde4c36cbd83536fcc0757554
+SHA1: 97804061949c6132af02912775802206c274768c
+SHA256: 1203e6a0b77e2b9b3a658ed178cdc1ad2b9dc702e24629d9ab1dc061c8da3126
+Section: Tweaks
+Description: 在2x2的小组件上显示电量百分比。Show battery percentage on 2x2 battery widget.
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.compactbatteryavocado
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.compactbatteryavocado/icon/icon.png
+Name: 电池小组件显示百分比
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 1648
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.0_iphoneos-arm64.deb
+Size: 306520
+MD5sum: 67065436522ada0af35bda9cf517473c
+SHA1: adbc9cf78bd36a2055b03ddcae0f322db4011601
+SHA256: b6cdb79568eaa24d75dc99ed5b126909bde0745c7745af7cb6876255a2701edf
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.velocarpooling
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.velocarpooling_1.0_iphoneos-arm64.deb
+Size: 5126
+MD5sum: b521d5f88a6226c4a71a7f4386ad1061
+SHA1: bfe38abcac3cb312569baeeacbbd2c039046fdfa
+SHA256: 41d2b0bbbd34461fcfff1f850f82bb47e18811f233d60138291d0848cec73861
+Section: Tweaks
+Description: 滴嗒出行去广告
+Author: M哥
+Name: 滴嗒出行
+
+Package: com.violetpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Erast
+Installed-Size: 6740
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Filename: ./debs/com.violetpro_1.0.0_iphoneos-arm64.deb
+Size: 5772164
+MD5sum: c870804fe85ef80788a170a14b691fbb
+SHA1: 084d45197967ede2dc6e3cf9894c7b661128ce34
+SHA256: ccc6c8b5f6f30107a8125e778b448db1b1a557ac52fe6839d58f6093aa700678
+Section: Tweaks
+Description: The maid for your iphone
+Author: Erast
+Icon: https://media.havoc.app/6479ae15276ae33252efbe71
+Name: Violet Pro
+
+Package: com.waimai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.waimai_1.0_iphoneos-arm64.deb
+Size: 4216
+MD5sum: fa5038c36023be2c2808e6cb7b4585c1
+SHA1: 40686f5b0c7ad0134e99b11709a3cf0905052e79
+SHA256: 2d90a8f488da189b01efb2d1ceb1265bb5883110275c83f70d0116ae3e3a250d
+Section: Tweaks
+Description: 美团外卖去广告
+Author: M哥
+Name: 美团外卖NoAd-rootless
+
+Package: com.weibo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.weibo_1.0_iphoneos-arm64.deb
+Size: 2838
+MD5sum: 6ab6415521d5bfa7385f3e18ea186693
+SHA1: b001f739a8bd48ae9e84d2711d1a3e4e784c998b
+SHA256: 454ad43b04bd8155af8e8788d655aaf28dcfcf8c273939541d4fc20be81daf4d
+Section: Tweaks
+Description: 微博去启动广告
+Author: M哥
+Name: 微博去启动广告
+
+Package: com.weifeng
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.weifeng_1.2_iphoneos-arm64.deb
+Size: 5064
+MD5sum: 5ba62362b9b755ec7d40704bc8a5d331
+SHA1: d3ad26691161044b099e41fe8636e5dc6a3d1412
+SHA256: 46f5a45bf2ffd6fb2a568535971555021176ef9ecdf0ddf6a85ed51a33d5b9a1
+Section: Tweaks
+Description: 最新威锋去广告
+Author: M哥
+Name: 威锋去广告-rootless
+
+Package: com.weifeng
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.weifeng_1.2.1_iphoneos-arm64.deb
+Size: 5100
+MD5sum: ddbb5e77339a39a4842e775e26333431
+SHA1: 8b462bc75e17d59757c5d831192fe02b1b418063
+SHA256: 9c6b15bc068910e50377d4a8e4e761eff31cc04f3e20746ee6ad65a91b5cf4ea
+Section: Tweaks
+Description: 最新威锋去广告（支持7.0版本）
+Author: M哥
+Name: 威锋
+
+Package: com.xina.blacklist
+Version: 0.0.2-10+debug
+Architecture: iphoneos-arm64
+Maintainer: xina520 <3608063@qq.com>
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xina.blacklist_0.0.2-10_iphoneos-arm64.deb
+Size: 37888
+MD5sum: c3a31a556c0529c22b306d1edbd84624
+SHA1: 9b370d5dafca0580c86415de63e12098503ab627
+SHA256: db659242b02b54d2b1549c50c555494e83b3b8af7447cb77df46dc054335953b
+Section: Tweaks
+Description: xina越狱守护进程
+Author: xina520 <3608063@qq.com>
+Name: XinaBlackList
+
+Package: com.xina.blacklist
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: xina520 <3608063@qq.com>
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xina.blacklist_0.0.3-10_iphoneos-arm64.deb
+Size: 41050
+MD5sum: b0688ecff86d7483fd3a4597027dfa60
+SHA1: 0903a42f6fb505ba4c33e10d34875f78ad27c7b4
+SHA256: 1818a68aab080c51fed676001e956c0e44686dfbf0674fe0765013f8f45d0557
+Section: Tweaks
+Description: xina越狱守护进程
+Author: xina520 <3608063@qq.com>
+Name: XinaBlackList
+
+Package: com.xx.baiduhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.baiduhook_1.0.1_iphoneos-arm64.deb
+Size: 94990
+MD5sum: 2672b86eaa4d0cf480751401559cf297
+SHA1: 080dc36f81381a514b2ed9f524f2f08b84706c77
+SHA256: 81b699fd6bd21542832c2426f377f97009ad60c19a72f29f0d6b5fd6468e090b
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.1更新内容：修复一些问题-增加搜索栏移除拍摄按钮(可开关)
+Author: x✨
+Name: 百度地图优化
+
+Package: com.xx.baiduhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.baiduhook_1.0.2_iphoneos-arm64.deb
+Size: 124518
+MD5sum: d0cb211557aeec5a9b9ee6934154aeda
+SHA1: 29d5d239c353e3658169fb214dd5b38a873800d7
+SHA256: 8cf2629077db9a092a80181dbbc822c0807e773d082bf1d6b4af4606558099bd
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部tab | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.2更新内容：新版支持
+Author: x✨
+Name: 百度地图优化
+
+Package: com.xx.dyhook
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2428
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.0_iphoneos-arm64.deb
+Size: 885142
+MD5sum: d21e7a218653327e67ea90ba01861b21
+SHA1: 19ba66605c4d7550310c86ae5337866789de2531
+SHA256: ee5e2e195e88cd8696f46321c3db82fcebc682c4932fed8289bf6b0ea5379ce4
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.1_iphoneos-arm64.deb
+Size: 894972
+MD5sum: 231ff5f32618ca2254d6f50826d92371
+SHA1: dc50ff2907fb3377b56e08e04ea02f845438c18a
+SHA256: fd6d3cf3c46d22ef515cf8525e7af93084d689cbc999ef648f8ce3cf9ab55051
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.ecnyhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.ecnyhook_1.0.1_iphoneos-arm64.deb
+Size: 18698
+MD5sum: 005c5f1c6d541dca8b6269ddbfd4a669
+SHA1: d5bff4793d227d31ab682264e610a51b25e5be7e
+SHA256: ccd523d077a2c349fa9a197ea22721b496a2ccb7e5cd22b6cc68b3ba951a2d28
+Section: Tweaks
+Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.ecnyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.ecnyhook_1.0.2_iphoneos-arm64.deb
+Size: 22936
+MD5sum: 829a5e6fee84d86b201fffcec65cebbc
+SHA1: 4e02881b125ccf8d4f2d37d59339eaee10b59b40
+SHA256: b52dbb6a123ab897b0a48ae3af8f0f478505551208f3136c4f16ee1d787be3b2
+Section: Tweaks
+Description: 屏蔽1.1.3 - 1.1.5版本越狱检测
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.fqxshook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.fqxshook_1.0.2_iphoneos-arm64.deb
+Size: 48050
+MD5sum: 638ec517c7c4eb324907ea68442a6c19
+SHA1: aeacb613fff9deaed166a88e919e2a556e3001b4
+SHA256: 1e11bf6bc85c9071a5b186fce1ab83afd96a47e5fb030106f479594b37c14d42
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.gaodehook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.gaodehook_1.0.2_iphoneos-arm64.deb
+Size: 94670
+MD5sum: fa85c58d798438453aa2e38dce6f9d82
+SHA1: da295e160c1ff97c6f9cf9cef48bb4dd1688cecc
+SHA256: 25167a095af83217b12b85d97f6357c00d3087525b49457976a7682d8f69bae8
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.2更新内容：优化首页搜索下方无用视图移除
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.gaodehook_1.0.3_iphoneos-arm64.deb
+Size: 100948
+MD5sum: 5bd0f4cbbd6a8cdee7e4553bd38b3744
+SHA1: adba2d785bb0ddd0f66d5ae82501bf8a65666460
+SHA256: d554d7d27dfbd008ef16c7ea7723332db53ea2574fe6ee1900ca9b882aa8857b
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.iboxhook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.iboxhook_1.0.4_iphoneos-arm64.deb
+Size: 33728
+MD5sum: 5871b75cef4329cc76bdafecbd312341
+SHA1: 71f895c754377f145e7bfd2df7f4197483ad2d98
+SHA256: 07da65f00e1dc6dbdd26620511c10ab1fe7c08eeb648352a4c77ebd7635677ef
+Section: Tweaks
+Description: 自用 | 看剧短剧听书无广告 无去除任何检测 | 仅越狱使用 仅支持210版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.iboxhook_1.0.5_iphoneos-arm64.deb
+Size: 20478
+MD5sum: 010802fbaaf8ccc8b62b64f4ec605185
+SHA1: e0b3c5db03e4b23c48a40bcfd4c1eb0cafb0dab4
+SHA256: ad76660c0b0f9f722ca38db241c7375d2e1aa84c3e0a7f4558a67479ab3a1e5b
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 无广告 无去除任何检测 | 仅越狱使用 仅支持212版本
+Author: x✨
+Name: iBoxNoAds
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
