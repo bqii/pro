@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{350, 180}",
+    "itemCornerRadius":20,
+    "banners": [
+        {
+            "url": "http://axs6.github.io/pro/images/Axslogo.png",
+            "title": "",
+            "package":"AppData",
+            "hideShadow": true
+        },
+    ]
+}
