@@ -4,7 +4,7 @@
     "itemCornerRadius":20,
     "banners": [
         {
-            "url": "https://bqii.github.io/pro/wency.pngimages/wency.png",
+            "url": "https://bqii.github.io/pro/images/ios.png",
             "title": "",
             "package":"AppData",
             "hideShadow": true
