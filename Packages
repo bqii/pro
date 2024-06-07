@@ -75,6 +75,26 @@ Author: Misaka
 Name: MisakaHelper
 
 Package: MisakaHelper
+Version: 1.9-8
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_1.9-8_iphoneos-arm64.deb
+Size: 11226112
+MD5sum: df084c220543088760bad26ccf9fc220
+SHA1: c380a7d40f0cb80c06e432beb5ff073470331f64
+SHA256: 514c0a32b92af397ffb593d8ca9326abcc2fcd869f0ede458eabd36382a94ad2
+Section: 微信
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
 Version: 1.9-9
 Architecture: iphoneos-arm64
 Essential: no
@@ -89,6 +109,26 @@ MD5sum: ec99c964f1f8f71f4c0e018647cf3594
 SHA1: 059d4b5d739642ec060e9872c643a393458d63f7
 SHA256: 5f4323d896f4698d72016cb740149d05c88abfcf10ea612a3ce6b39840893ba5
 Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
+Version: 1.9-9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_1.9-9_iphoneos-arm64.deb
+Size: 11419232
+MD5sum: e50dc062f7504cd6273d13fa49b64473
+SHA1: b0f77e8a3f174c7239764d29f4ba780c12fe8271
+SHA256: a89d4f1d1067b2b7edfa7358b4a527aa38b0d4e8f8bf29c0d77209d3ee1f65bd
+Section: 微信
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
@@ -141,6 +181,22 @@ Description: Minimal design without compromise
 Author: Tr1Fecta & Kennyroo
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Name: Akara
+
+Package: alias20.calclog
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/alias20.calclog_0.0.1_iphoneos-arm64.deb
+Size: 5272
+MD5sum: 77bbaf56cdbbbce090c07992d8b2d814
+SHA1: 94cf0fd7132acccec8d10b20b77d840222ab6028
+SHA256: 80e6487e42a055157a3d125b5520d855574884d94220568a5165e7a606bf8e6a
+Section: 工具
+Description: Create logs calculation history above the result window. Only basic arithmetic operations are supported.
+Author: alias20
+Name: CalcLog
 
 Package: alpine
 Version: 1.3
@@ -828,6 +884,22 @@ Author: 来了老弟 X：h_h_x_t
 Name: 微信小布丁-rootless
 
 Package: cn.llld.wxx
+Version: 1.0.5-5
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天-搬运
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/微信小布丁_1.0.5-5_iphoneos-arm64.deb
+Size: 26352
+MD5sum: f06b0eb88c7ef21f8ff0ce691beff4b1
+SHA1: 926569d73d53a9a5d3c63ed0b9c8ebf6f324c5ff
+SHA256: ff717d9a3baa6b5346b205cc861f7bdb486fda64a5262bcd1e824842d94d85a9
+Section: 微信
+Description: 微信小布丁1.0.5版本，可注入可越狱使用。自定义气泡，模拟iPad登录，开启callkit通话，开启消息防撤回，最全屏蔽公众号文章广告，屏蔽订阅号列表广告（可自定义关注视频和直播中订阅号），屏蔽朋友圈广告，屏蔽越狱检测状态,快速跳小程序广告，自定义步数等功能。不整大杂烩，只更用的到。***长按主页，订阅号的'搜索栏'1秒控件或任意聊天窗口中的'时间'，都可以弹出设置***,8.0.31版本专供，高版本仅用部分功能（我自用是8.0.31，没适配高版本）
+Author: 又是深情的一天-搬运
+Name: 微信小布丁-rootless
+
+Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
@@ -1033,6 +1105,22 @@ Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.7-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信助手_3.7-8_iphoneos-arm64.deb
+Size: 9754488
+MD5sum: 791cb60d3d5bc2df9eddbbcbcf9cd343
+SHA1: 69c5d6e17abdd569fdf9d95777baed70acdc5f52
+SHA256: c52f44d96edc8cd0da699ea5eea2ac748825254fe80a2ea598257ed4447dbc8f
+Section: 微信
+Priority: optional
+Description: 微信助手
+Author: Mao
+Name: 微信助手
+
 Package: com.25mao.msgfilt.rootless
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -1101,6 +1189,21 @@ Section: Mao
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.7.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手_1.7.2_iphoneos-arm64.deb
+Size: 9511380
+MD5sum: 64546ff7ec035751df701dfc934a17d5
+SHA1: 640f5c3628fc60e8d28592bb55e463c53d431d11
+SHA256: d1e15e14214cb019984cdf7409a7d2f3206bd2f6fe6b3e3d9a81c10d4e37f5f9
+Section: 微信
+Description: 又是深情的一天-黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手-Rootless
 
 Package: com.HBWechatHelper.ailun
 Version: 1.7.2
@@ -1248,6 +1351,21 @@ MD5sum: 2ec85592db0bb7b936061f11675c0e13
 SHA1: 6e8c9e2021d22776364d6e1852663a9881ce1575
 SHA256: 96f64d923700ae302260a3b8261464225ac52a93f64e1b8dca3aac9083e67e97
 Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ash
+Name: MilkyWay4-iOS16Fix
+
+Package: com.ash.milkyway4-ios16fix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ash
+Depends: firmware (>= 15.0), mobilesubstrate, jp.akusio.milkyway4
+Filename: ./debs/com.ash.milkyway4-ios16fix_0.0.1_iphoneos-arm64.deb
+Size: 12700
+MD5sum: 8e2de86b25cdfd4a26f85a090338e8e3
+SHA1: 2d901f137ebd5dea9d8f1676cbe32624518fd41f
+SHA256: 7760b6ba52e48dd561f6fd7b228b1cacb61eb015c023b3e3e7b6aa390ff81e3b
+Section: 工具
 Description: An awesome MobileSubstrate tweak!
 Author: ash
 Name: MilkyWay4-iOS16Fix
@@ -1435,6 +1553,29 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64.deb
+Size: 385732
+MD5sum: e5d123bd7621a52a6624f3cfdf517610
+SHA1: e51bf909f537cf696fda5dae98d4a3a9c1da6b1b
+SHA256: 60b895e8f7db1efc93efdc7b1c745f3fde4800639efdde752b6396453f6361c8
+Section: 工具
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
 Package: com.csdnplus
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -1478,6 +1619,24 @@ MD5sum: fd7a29ed58ca93e9878dc0371959380a
 SHA1: 6d6986b1221224eb6541cff3fe3c8bcf833bc4d8
 SHA256: bab85c7fe217059c2075ad191c7431405d87a4b8c7e14ee9d351a48c22e036e8
 Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/PKC_0.5-1_iphoneos-arm64.deb
+Size: 386320
+MD5sum: 83277a5553323c855dca34112ad3df55
+SHA1: db1b98d379e9e9b0a84178ac0bf4202fd8c00557
+SHA256: 99990a192eeb5daa32265715aed8087a34cd82b2c51e9db5ed9887b5571f75b5
+Section: 微信
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
@@ -1609,6 +1768,22 @@ Author: aReo
 Name: AppTools15-16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15rootless
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless
+Filename: ./debs/com.dao.apptools15rootless_1.2.6_iphoneos-arm64.deb
+Size: 196548
+MD5sum: c77f779783bd7b2ad2d9a81ce6ad9533
+SHA1: e6f2b0bff8733be27ca1ed4332ae198a789c1b9c
+SHA256: 45929ae43bf071b2e8a8e92d44be9960bd848da51901f93d1c3f2451e544ebaf
+Section: 工具
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
+Author: aReo
+Name: AppTools15-16(rootless)
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -1673,6 +1848,23 @@ MD5sum: d6c3f1a0bdf7161f48a0e27da069c5b2
 SHA1: 5d898b499b214c8d3d2e3bfd4b8d742d855e0c6a
 SHA256: 70a2cb3ea0ff1ce7cfc37ef22401ea737f6f0f67a04dcda3c8090c5c80947770
 Section: 嗨-工具
+Description: 漂亮的定时器和闹钟提醒，根据开源编译。
+Author: NoisyFlake
+Name: BetterAlarm中文版(rootless)
+
+Package: com.dao.betteralarm
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 756
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl, com.hk.betteralarm, com.qms.betteralarm
+Filename: ./debs/com.dao.betteralarm_1.5_iphoneos-arm64.deb
+Size: 296040
+MD5sum: 1f1e538c531ac0ab5e96b16b74dd2097
+SHA1: 190f5c635b2d4ab9b77ec2b433c5f7f23cb80e52
+SHA256: a0855942c7a8c202f8e2cc20b8f79cc5f3e87fdc83f95d5dc26ae5d429f038a1
+Section: 工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版(rootless)
@@ -1803,6 +1995,24 @@ MD5sum: 115b8a79a6fc788356cce22daae99748
 SHA1: 088d6c29cb89a225b41376063893a537aabe39c7
 SHA256: d244c9a8bbef96275bd2951f844d3cc63c499f74103baf8eb5790bcbd42ad9c6
 Section: 嗨-工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Version: 3.0.4.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4348
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/com.dao.classicfolders3_3.0.4.5_iphoneos-arm64.deb
+Size: 3282176
+MD5sum: 4c581fac5e530591c9863a44d58ac230
+SHA1: 1848008b2d640b938a80936acfa64c55fa7aeda6
+SHA256: a8bccb96c2822dc62bd02ba108e3802403390f95d49d734490d7c3a48ec968d5
+Section: 工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
 Name: ClassicFolders 3(rootless)
@@ -3065,6 +3275,24 @@ Description: Quickly translate any text
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Name: Translomatic
+
+Package: com.guashen.wechathelper
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天-搬运
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/挂神助手_1.0-2_iphoneos-arm64.deb
+Size: 69624
+MD5sum: 4df844717c8fa23bd26507b4d1fbbdf0
+SHA1: 786bf8efd251cc3fa0567fe38adba556746bdee6
+SHA256: d5932b4468bffefb880b99bc2ab9d2e4cba1409a4cc23095d80831bec663d361
+Section: 微信
+Priority: optional
+Description: 又是深情的一天-巨魔商店转rootless
+Author: 挂神
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 挂神红包助手
+Sponsor: 挂神
 
 Package: com.hitori.misaki
 Version: 2.0.9
@@ -6194,6 +6422,21 @@ Author: M哥
 Name: 拼多多-rootless
 
 Package: com.pingfan.wechat
+Version: 2.1-6
+Architecture: iphoneos-arm64
+Maintainer: pingfan
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.1-6_iphoneos-arm64.deb
+Size: 4065536
+MD5sum: adee5533bb77bd2091b0dad178d82c72
+SHA1: a041ac615b533d39d49e2c671689ff7afe5dd9cb
+SHA256: 748cbad234390d77cbf200b012b91ba5cdd687ac28d082f7487c35042471a147
+Section: 微信
+Description: 精简一些内容。。。。
+Author: pingfan
+Name: 虚拟视频
+
+Package: com.pingfan.wechat
 Version: 2.1-7
 Architecture: iphoneos-arm
 Maintainer: pingfan
@@ -6610,11 +6853,11 @@ Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.swing.bilibili_1.1.3_iphoneos-arm64.deb
-Size: 18856
-MD5sum: 24fee776a6c704854cede9d535563d0c
-SHA1: 325006214e2cbe9900525c4f8201375ded81ce71
-SHA256: 92050d4c0c401da47bc62e5f074e32907f0b3c5aae292a1c9209baeefd569868
-Section: Tweaks
+Size: 18916
+MD5sum: 0668b8246f33143ab271854476252327
+SHA1: bae239ce71f0da637d37f5354ac45edf4679c574
+SHA256: 915fc7a61aabcae76b2e96d0e32a5a38636cdb6d8aa17838036076016e1f7807
+Section: 净化
 Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
@@ -6769,6 +7012,25 @@ MD5sum: 51cab626de4d3887bacb015bea53ba01
 SHA1: 27b3a715d145f205a472dd35c0f7756d9b79ce4a
 SHA256: 48e2ded1cfda869090a42c846507165821b0e001146e2ad77ff0ca1455519572
 Section: Tweaks
+Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
+Name: 微信去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
+
+Package: com.swing.wechat.noads
+Version: 1.1.8-1
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.swing.wechat.noads_1.1.8-1_iphoneos-arm64.deb
+Size: 6408
+MD5sum: f4b556eb0a66e9b2a026b412ff6e8908
+SHA1: 59b9427208de01f3e0d58cab5028db07c0245b58
+SHA256: a878bd7ac147336177c9136207ddbf5e06ab891c5be1df1464d9fc892460e871
+Section: 微信
 Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
@@ -8992,11 +9254,49 @@ Depends: mobilesubstrate, firmware (>= 12.0)
 Conflicts: netskao.wechatpurification
 Replaces: netskao.wechatpurification
 Provides: netskao.wechatpurification
+Filename: ./debs/微信净化老版_4.2-6_iphoneos-arm64.deb
+Size: 7088700
+MD5sum: 6f44c6d87a09d909fab15d4c2b214ffd
+SHA1: d49e28dc8373676cd0133ec597bb081ca2b56bee
+SHA256: 53c6e8bc507336b6666d3c390e9e584578c279b27e9bd546a211c39f7f5ddec2
+Section: 微信
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
+
+Package: netskao.wcpureextension
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
 Filename: ./debs/微信净化_4.2-6_无根-长期版.deb
 Size: 7085012
 MD5sum: 0b8d3eb12c0485585da6657afeb272e4
 SHA1: cb943067e5734a7b300ed8d55dec14c42d9ddf02
 SHA256: c500588113d6ea84f56f7222fc491d848e2cd2c8adec988662f65a85cd2096da
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
+
+Package: netskao.wcpureextension
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/微信净化_4.2-6_iphoneos-arm64 2.deb
+Size: 7083736
+MD5sum: 40f98af0d03ec777a804d9c22c8da61f
+SHA1: 3bd4030c16daaaaf317e3cea426b9a13326fbaa4
+SHA256: 872e151e495e4489f65d6379034783cf8a27d889b44c3e02d631ed9cc2a0c7ea
 Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
@@ -9036,6 +9336,22 @@ Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15 APIs
 Author: Netskao
 Name: WeChatNotiAvatar-rootless
+
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 16708
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/微信净化-终结版_4.2-6-END_iphoneos-arm64.deb
+Size: 6271632
+MD5sum: 19dd3824431f964e56057b635e65893b
+SHA1: 7c0e56867de7bbc3f105d959051aaa6355289e5f
+SHA256: c169d57bdd22ad5f8dd3ad729a5cecdbe0a5c140ede8646e4ab4a874c387e119
+Section: 微信
+Description: 感谢Netskao大佬的更新，微信净化去除时间制，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化-终结版
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
@@ -10092,6 +10408,26 @@ Section: rootless微信插件
 Description: 微信电脑扫码，手机自动确认登录.
 Author: M哥
 Name: 微信登录_rootless
+
+Package: wen
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: ./debs/微信文字转语音_1.0.0_iphoneos-arm64.deb
+Size: 184036
+MD5sum: f43c0c4c555ee4a416a343bc60560be4
+SHA1: 9dbc905eb1d2224c49444dadab29fa47bca8acdb
+SHA256: ea9535899e5b4eb8d85331840eb07391abf262058e9fb16e37b81eb0189bf755
+Section: 微信
+Priority: optional
+Description: 进入微信/我/设置/页面开启文字转语音开关
+Author: Apibug.com
+Name: 微信文字转语音
 
 Package: wget
 Version: 1.21.3-1
