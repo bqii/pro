@@ -555,6 +555,22 @@ Author: 来了老弟
 Name: QQ绿化_芭比Q-rootless
 
 Package: cn.llld.copy1
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/复制粘贴Copy-text-1_1.4.1_iphoneos-arm64.deb
+Size: 8708
+MD5sum: 8c3771e5fdb930f9ad0c8f15feb0f208
+SHA1: 1c9814cf7c0fc1ac67a74e40deb851271dbc5bfb
+SHA256: 140ebe658c0700dc5350a5fde684df0f9658134573ce15fcf1b6569083408f18
+Section: 工具
+Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ), currently in the testing phase, and more support will be added in future updates.***（设置,appstore,短信，cocoatop,sileo,saily,QQ）短按复制文本内容，现处于测试阶段等后续更新支持更多,20231107更新修复交互和点击bug，20231109优化速度反应,20231209新加了数个应用，若按钮或原本的手势异常请反馈并先禁止此插件的注入,20231211处理QQ长按语音和Flexlis，Flexingt编辑框的手势冲突问题***
+Author: 来了老弟 h_h_x_t
+Name: Copy-text-rootless
+
+Package: cn.llld.copy1
 Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
