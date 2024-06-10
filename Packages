@@ -5745,10 +5745,10 @@ Maintainer: MTAC
 Installed-Size: 2744
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.mtac.lynxtwo_2.5.2_iphoneos-arm64.deb
-Size: 639280
-MD5sum: e90b2290f69fe6bcb8ac9e4f8a4ada0b
-SHA1: b4279b93fb907ebf4529790f09a809eba5a75893
-SHA256: a740bd12ab40f432b8d3d35311d167cbe214cb3e5ec68604537d9a7304a4220f
+Size: 640196
+MD5sum: 03ada2b261cf0c3229a1b36160dd0acd
+SHA1: 3a71b3ac035e8b941bcf72be99c93491f31495b2
+SHA256: 4c022dbd36221c5ba4066602794f59ad18234f5461f08efe62353fc697f5b541
 Section: 工具
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Author: MTAC
@@ -7834,6 +7834,23 @@ SHA256: 9c70119810d3042d74265bb94c0cadde0f8accf6e2e4b13d05c964e0d3ae44fc
 Section: Tweaks
 Description: 自用
 Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 3032
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.2_iphoneos-arm64.deb
+Size: 891648
+MD5sum: 237df0dfd4a86a80a4c8a312317a9dd4
+SHA1: 781a28bd201bede8ce7e15a8e4eacf373d68ed30
+SHA256: 7d901ae3c715e2c929e9911d5d49b51657830b47533bc85aaca030366c0b9535
+Section: 净化
+Description: 又是深情的一天
+Author: 又是深情的一天
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
