@@ -1702,6 +1702,24 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.curtin.pkc.rootless
+Version: 0.5-2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/pkc.rootless_0.5-2_iphoneos-arm64.deb
+Size: 403480
+MD5sum: 72cafc5f7b516572695527f2f70ea185
+SHA1: c1fa651071239ff382aff26c28526bf02a3d9c94
+SHA256: 071dcac277da7ee12b5b92ad70552f582d2c423ae20b3d20e28eaf4ecc45c840
+Section: 微信
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
 Package: com.cydia.love.iapstorefugu-rootless
 Version: 0.0.2
 Architecture: iphoneos-arm64
