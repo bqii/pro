@@ -2575,6 +2575,22 @@ Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
+Package: com.dao.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: nowesr1
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: twitter.nowesr1.photosplus
+Filename: ./debs/相册增强_0.0.1_iphoneos-arm64.deb
+Size: 26768
+MD5sum: d3cff13f7b73871c61a1bf691b5795ca
+SHA1: 3102e4010f9262f23940befe8cedd785ce92a3ec
+SHA256: 1f61cb2860872b9183938170e16f3956c5fee5bbac6b76636a96097cd547b8b4
+Section: 工具
+Description: 照片增强的轻量插件，刀刀已汉化。
+Author: nowesr1
+Name: PhotosPlus(rootless)
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm64
