@@ -9671,6 +9671,25 @@ Name: 微信净化
 Package: netskao.wcpureextension
 Version: 4.2-6
 Architecture: iphoneos-arm64
+Maintainer: 又是深情的一天
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/微信净化_4.2-6_iphoneos-arm64.deb
+Size: 7086516
+MD5sum: 2fa073a5632e8becdbe8d5302d71876e
+SHA1: 3da6e79af23cf98aa84d4ebd992357664c00ce03
+SHA256: fc63beca403057d2b392593033bff0b19fb73aefec57988f1700e426c65e0836
+Section: 微信
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: 又是深情的一天
+Name: 微信净化
+
+Package: netskao.wcpureextension
+Version: 4.2-6
+Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 19660
 Depends: mobilesubstrate, firmware (>= 12.0)
