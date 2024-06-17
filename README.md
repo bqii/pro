@@ -19,12 +19,12 @@
 
 <div class="content">
   
-	<p>这里是《又是深情的一天》的Github源库 <a href="https://github.com/bqgp/">
+	<p>这里是《又是深情的一天》的Github源库 <a href="https://github.com/bqii/">
 <img border="0" src="Github.png" width="84" height="32"></a></p>
   
   <h2 id="jailbreak">点击下方添加软件源</h2>
-	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=[https://bqgp.github.io/Pro/](https://bqii.github.io/pro/)">添加Cydia</a><br>
-	<a href="sileo://source/https://bqgp.github.io/Pro/">添加Sileo</a><br>
+	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=[https://bqii.github.io/Pro/](https://bqii.github.io/pro/)">添加Cydia</a><br>
+	<a href="sileo://source/https://bqii.github.io/Pro/">添加Sileo</a><br>
 	<a href="zbra://sources/add/https://bqii.github.io/pro/">添加Zebra</a>
 
   <h2 id="jailbreak">越狱</h2>
