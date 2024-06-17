@@ -7070,6 +7070,22 @@ Name: CopyVault
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.squidforce.copyvault_1.2.5_iphoneos-arm64.deb
+Size: 2598720
+MD5sum: 66587a8dcc0126ed8ff6d318bee3a436
+SHA1: 519df76bfd50591764bb74712eb38f9efad89c17
+SHA256: 96f06da393d7e2b82b87abd83e696b253cdfba6c90b8313717726d7b28323af7
+Section: 工具
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
 Package: com.squidforce.disablepastealert16
 Version: 1.0
 Architecture: iphoneos-arm64
