@@ -9,5 +9,11 @@
             "package":"AppData",
             "hideShadow": true
         },
+        {
+            "url": "https://bqii.github.io/pro/images/wency.png",
+            "title": "",
+            "package":"AppData",
+            "hideShadow": true
+        },
     ]
 }
