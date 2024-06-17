@@ -233,7 +233,7 @@ body {
 
 /* title */
 h1 {
-    margin-top: 200px;
+    margin-top: 70px;
     font-size: 0vw;
     color: #ff0000;
     text-align: center;
@@ -285,20 +285,15 @@ h1 {
 }
 
 p.legend {
-    color: #2DEC00;
+    color: #1cc7d0;
     font-size: 20px;
     text-align: center;
-    margin-bottom: 1em;
+    margin-bottom: 1.2em;
 }
 
 p.legend span {
-    color: #ff0000;
+    color: #000;
     margin-left: 10px;
-}
-
-.follow-button {
-  color: #ff0000;
-  font-size: 20px;
 }
 
 .input {
