@@ -33,5 +33,5 @@ Codename: bqii
 Architectures: iphoneos-arm64
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 自用插件分享，有问题请卸载！！！
+Icon: file://CydiaIcon.png
 EOF
