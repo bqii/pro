@@ -1398,6 +1398,22 @@ Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(rootless)
 
+Package: com.ash.dbthermal
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: ash
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/去除温控_1.2.3_iphoneos-arm64.deb
+Size: 257268
+MD5sum: ba8d71f750b4f67154b9f23b200c3430
+SHA1: 81105f783ac3b51ccdd8a38825bc7750ea3ce8ea
+SHA256: 433ae8e4275d742447b3f9feffd07653be652bbc589ce8473a64f7c6ea766df3
+Section: 工具
+Description: 降频/温控插件_安装后进设置点击开启，重启手机后需要先关闭再点击开启，注销/重启用户空间不影响，开启/关闭都会重启用户空间。
+Author: 去除温控
+Name: DisableThermal
+
 Package: com.ash.milkyway4-ios16fix
 Version: 0.0.1
 Architecture: iphoneos-arm64
