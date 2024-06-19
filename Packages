@@ -134,6 +134,26 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: MisakaHelper
+Version: 2.0-0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.0-0_iphoneos-arm64.deb
+Size: 11817396
+MD5sum: 7b94b7b593cbe858dc6da4acd43a1712
+SHA1: d82153f7420a7589da15a8e59baed255a918045d
+SHA256: 0b4c63ebd8dc178cad9929522d930ea1388b2cc82cdcd86a04cfa2d20c782b40
+Section: 微信
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: SwipeUnLock.rootless
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -1196,6 +1216,23 @@ Author: Mao
 Name: 消息屏蔽助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/插件收纳管理.rootless_0.1-3_iphoneos-arm64.deb
+Size: 19660
+MD5sum: 83e41c497eb0ce5820ba11aea4fbed65
+SHA1: 6fa4996449accd0d1de186781b4f9f277a8df255
+SHA256: 998b51b3665d052372644c85a44e021e8961128e599546973e8946c34657fd25
+Section: 微信
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.25mao.youquan.rootless
 Version: 3.0-8
 Architecture: iphoneos-arm64
@@ -1728,6 +1765,24 @@ Size: 403480
 MD5sum: 72cafc5f7b516572695527f2f70ea185
 SHA1: c1fa651071239ff382aff26c28526bf02a3d9c94
 SHA256: 071dcac277da7ee12b5b92ad70552f582d2c423ae20b3d20e28eaf4ecc45c840
+Section: 微信
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-2
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/PKC.rootless_0.5-2_iphoneos-arm64.deb
+Size: 403312
+MD5sum: 1f52047a8ac084c83c36c2433bf42842
+SHA1: 8d2853e819f9b393f2807dd87305579369926e9f
+SHA256: df1f2b2b94b92a36bc48ca769f3a2d72c86a313f03b0c0a61a165e2baeb11910
 Section: 微信
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -7085,6 +7140,22 @@ Icon: file:///Library/PreferenceBundles/CopyVaultPrefs.bundle/CopyVault@2x.png
 Name: CopyVault
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/CopyVault_1.2.5_iphoneos-arm64.deb
+Size: 2598184
+MD5sum: cbf69bf6ef702bf9e12fe59e1a08da3d
+SHA1: c0d1e803f653a311f90aa26fbb2333ca5128072d
+SHA256: ccff1dbf9f651f175956e6a2b41a3bb9979346379ee1bb0baada2fce9b12207e
+Section: 工具
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
 
 Package: com.squidforce.copyvault
 Version: 1.2.5
